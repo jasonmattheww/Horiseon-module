@@ -10,3 +10,4 @@ https://jasonmattheww.github.io/module-1-challenge/
 
 ## Usage
 
+![module-1-challenge](https://github.com/jasonmattheww/module-1-challenge/assets/106440615/82bfd58f-3b24-4822-9f5f-507eea7115d7)
