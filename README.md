@@ -6,7 +6,7 @@ In this challenge I recived starter code and needed to go in and edit and fix th
 
 ## Deployment
 
-https://jasonmattheww.github.io/module-1-challenge/
+https://jasonmattheww.github.io/Horiseon-module-1-challenge/
 
 ## Usage
 
