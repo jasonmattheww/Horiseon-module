@@ -6,8 +6,8 @@ In this challenge, I received starter code and needed to go in and edit and fix 
 
 ## Deployment
 
-https://jasonmattheww.github.io/Horiseon-module-1-challenge/
+https://jasonmattheww.github.io/Horiseon-module/
 
 ## Usage
 
-![module-1-challenge](https://jasonmattheww.github.io/Horiseon-module/)
+![module-1-challenge](https://github.com/jasonmattheww/module-1-challenge/assets/106440615/82bfd58f-3b24-4822-9f5f-507eea7115d7)
